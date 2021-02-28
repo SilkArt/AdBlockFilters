@@ -1,0 +1,7 @@
+# Title: EZBlocker
+||*.com/?rb=$document&zoneid=$document&fs=$document&cf=$document&sw=$document&sh=$document&sah=$document&wx=$document&wy=$document&ww=$document&wh=$document&cw=$document&wiw=$document&wih=$document&wfc=$document&pl=$document&drf=$document&np=$document&pt=$document&nb=$document&ng=$document&ix=$document&nw=$document&tb=$document
+||*.com/afu.php?zoneid=$document
+||*.net/?rb=$document&zoneid=$document&fs=$document&cf=$document&sw=$document&sh=$document&sah=$document&wx=$document&wy=$document&ww=$document&wh=$document&cw=$document&wiw=$document&wih=$document&wfc=$document&pl=$document&drf=$document&np=$document&pt=$document&nb=$document&ng=$document&ix=$document&nw=$document&tb=$document
+||*.net/afu.php?zoneid=$document
+||*.com/*?zoneid=$document&browser=$document&bannerid=$document&os=$document&country=$document&region=$document&isp=$document&useragent=$document&language=$document&placement=$document&subid_short=$document
+||*.com/*?bmmgth=$document&refer=$document&kw=$document&key=$document&scrWidth=$document&scrHeight=$document&tz=$document&v=$document&res=$document&dev=$document&uuid=$document&adb=$document&adb=$document
