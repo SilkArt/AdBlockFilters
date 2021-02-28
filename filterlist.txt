@@ -5,3 +5,5 @@
 ||*.net/afu.php?zoneid=$document
 ||*.com/*?zoneid=$document&browser=$document&bannerid=$document&os=$document&country=$document&region=$document&isp=$document&useragent=$document&language=$document&placement=$document&subid_short=$document
 ||*.com/*?bmmgth=$document&refer=$document&kw=$document&key=$document&scrWidth=$document&scrHeight=$document&tz=$document&v=$document&res=$document&dev=$document&uuid=$document&adb=$document&adb=$document
+||*.com/*?mnks=$document&refer=$document&kw=$document&key=$document&scrWidth=$document&scrHeight=$document&tz=$document&v=$document&res=$document&dev=$document&uuid=$document&adb=$document&adb=$document
+||*.com/*?key=$document&submetric=$document
