@@ -1,0 +1,5 @@
+# Name: Roblox Ads Blocker
+roblox.com/userads/redirect?data=$document
+roblox.com###Leaderboard-Abp > iframe
+roblox.com###Skyscraper-Abp-Right > iframe
+roblox.com/games/refer?NativeAdData=$document
