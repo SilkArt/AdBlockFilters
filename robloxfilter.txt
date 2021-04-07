@@ -1,8 +1,8 @@
 # Title: Roblox Ads Blocker
-||roblox.com/userads/redirect?data=$document
-||ads.roblox.com/*
-||adconfiguration.roblox.com/*
-||roblox.com/games/refer?IsLargeGameTile=$document&NativeAdData=$document&PageType=$document&PlaceId=$document&Location=$document&LocalTimestamp=$document
+||roblox.com/*?data=$document
+||ads.roblox.com^
+||adconfiguration.roblox.com^
+||roblox.com/*?NativeAdData=$document
 roblox.com###Skyscraper-Abp-Right > iframe
 roblox.com###Skyscraper-Abp-Left > iframe
 roblox.com###Leaderboard-Abp > iframe
