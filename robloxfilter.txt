@@ -1,4 +1,5 @@
 # Title: Roblox Ads Blocker
+# Expires: 1 hour
 ||roblox.com/*?data=$document
 ||ads.roblox.com^
 ||adconfiguration.roblox.com^
