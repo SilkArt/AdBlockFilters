@@ -1,4 +1,4 @@
-# Name: Roblox Ads Blocker
+#Title: Roblox Ads Blocker
 ||roblox.com/userads/*
 ads.roblox.com/*
 adconfiguration.roblox.com/*
