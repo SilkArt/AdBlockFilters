@@ -1,8 +1,56 @@
 # Title: Roblox Ads Blocker
 # Expires: 1 hour
 ||roblox.com/*?data=$document
-||ads.roblox.com^
+||abtesting.roblox.com^
+||accountinformation.roblox.com^
+||accountsettings.roblox.com^
 ||adconfiguration.roblox.com^
+||ads.roblox.com^
+||apis.roblox.com^
+||apis.rbxcdn.com^
+||api.roblox.com^
+||assetdelivery.roblox.com^
+||auth.roblox.com^
+||avatar.roblox.com^
+||badges.roblox.com^
+||billing.roblox.com^
+||captcha.roblox.com^
+||catalog.roblox.com^
+||chat.roblox.com^
+||contacts.roblox.com^
+||contentstore.roblox.com^
+||develop.roblox.com^
+||economy.roblox.com^
+||economycreatorstats.roblox.com^
+||engagementpayouts.roblox.com^
+||followings.roblox.com^
+||friends.roblox.com^
+||games.roblox.com^
+||gameinternationalization.roblox.com^
+||groups.roblox.com^
+||inventory.roblox.com^
+||itemconfiguration.roblox.com^
+||locale.roblox.com^
+||localizationtables.roblox.com^
+||metrics.roblox.com^
+||midas.roblox.com^
+||notifications.roblox.com^
+||premiumfeatures.roblox.com^
+||presence.roblox.com^
+||publish.roblox.com^
+||rcs.roblox.com^
+||apis.rcs.roblox.com^
+||thumbnails.roblox.com^
+||trades.roblox.com^
+||translationroles.roblox.com^
+||users.roblox.com^
+||voice.roblox.com^
+||privatemessages.roblox.com^
+||share.roblox.com^
+||chatmoderation.roblox.com^
+||usermoderation.roblox.com^
+||groupsmoderation.roblox.com^
+||twostepverification.roblox.com
 ||roblox.com/*?NativeAdData=$document
 roblox.com###Skyscraper-Abp-Right > iframe
 roblox.com###Skyscraper-Abp-Left > iframe
