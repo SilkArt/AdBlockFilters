@@ -51,8 +51,4 @@
 ||usermoderation.roblox.com^
 ||groupsmoderation.roblox.com^
 ||twostepverification.roblox.com
-||roblox.com/*?NativeAdData=$document
-roblox.com###Skyscraper-Abp-Right > iframe
-roblox.com###Skyscraper-Abp-Left > iframe
-roblox.com###Leaderboard-Abp > iframe
-https://www.roblox.com/user-sponsorship/$domain=roblox.com
+||roblox.com/*?&IsLargeGameTile=$document&NativeAdData=$documentPageType=$document&PlaceId=$document&Position=$document&LocalTimestamp=$document
