@@ -51,4 +51,4 @@
 ||usermoderation.roblox.com^
 ||groupsmoderation.roblox.com^
 ||twostepverification.roblox.com
-||roblox.com/*?&NativeAdData=$document
+||roblox.com/*?NativeAdData=$document
