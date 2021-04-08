@@ -51,4 +51,4 @@
 ||usermoderation.roblox.com^
 ||groupsmoderation.roblox.com^
 ||twostepverification.roblox.com
-||roblox.com/*?&IsLargeGameTile=$document&NativeAdData=$documentPageType=$document&PlaceId=$document&Position=$document&LocalTimestamp=$document
+||roblox.com/*?IsLargeGameTile=$document&NativeAdData=$documentPageType=$document&PlaceId=$document&Position=$document&LocalTimestamp=$document
